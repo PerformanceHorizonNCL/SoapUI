@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-workspace name="Projects" soapui-version="5.4.0" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings/>
+  <con:project name="Airport Service">C:/Users/sharathcg/git/SoapUiProject/Airport-Service-soapui-project.xml</con:project>
+  <con:project name="SOAP-Banking Project-DynamicMock">C:/Users/sharathcg/git/SoapUiProject/Banking-Project-soapui-project.xml</con:project>
+  <con:project name="REST Dynamic Mock">C:/Users/sharathcg/git/SoapUiProject/REST-Project-1-soapui-project.xml</con:project>
+  <con:project name="REST Country Services">C:/Users/sharathcg/git/SoapUiProject/Country Services _Swagger.xml</con:project>
+  <con:project name="Soap_Banking">C:/Users/sharathcg/git/SoapUiProject/Banking-soapui-project.xml</con:project>
+  <con:collectInfoForSupport>false</con:collectInfoForSupport>
+</con:soapui-workspace>
